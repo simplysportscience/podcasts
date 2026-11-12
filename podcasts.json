@@ -1,3 +1,9 @@
 {
-  "episodes": {}
+  "episodes": {
+    "btec-u01": {
+      "file": "btec-u01.mp3",
+      "title": "Why Being Fit Doesn't Mean Healthy",
+      "minutes": 20
+    }
+  }
 }
