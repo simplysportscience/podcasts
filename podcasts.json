@@ -44,6 +44,34 @@
         }
       ]
     },
+    "ib-a1-3": {
+      "tracks": [
+        {
+          "file": "ib-a1-3-cardiovascular.mp3",
+          "title": "A.1.3.1 The Cardiovascular System",
+          "label": "Cardiovascular System",
+          "minutes": 12
+        },
+        {
+          "file": "ib-a1-3-heart.mp3",
+          "title": "A.1.3.1 The Heart",
+          "label": "The Heart",
+          "minutes": 22
+        },
+        {
+          "file": "ib-a1-3-blood-vessels.mp3",
+          "title": "A.1.3.1 Blood Vessels",
+          "label": "Blood Vessels",
+          "minutes": 15
+        },
+        {
+          "file": "ib-a1-3-cardiac-control.mp3",
+          "title": "A.1.3.1 Cardiac Control",
+          "label": "Cardiac Control",
+          "minutes": 12
+        }
+      ]
+    },
     "btec-u01": {
       "file": "btec-u01.mp3",
       "title": "Why Being Fit Doesn't Mean Healthy",
