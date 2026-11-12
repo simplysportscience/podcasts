@@ -10,6 +10,40 @@
       "title": "A.1.1.2 The Endocrine System",
       "minutes": 18
     },
+    "ib-a1-2": {
+      "tracks": [
+        {
+          "file": "ib-a1-2-1.mp3",
+          "title": "A.1.2.1 Homeostasis",
+          "label": "Homeostasis",
+          "minutes": 9
+        },
+        {
+          "file": "ib-a1-2-2-environment.mp3",
+          "title": "A.1.2.2 Acute Responses to Environment",
+          "label": "Environment",
+          "minutes": 19
+        },
+        {
+          "file": "ib-a1-2-2-altitude.mp3",
+          "title": "A.1.2.2 Acute Response to Altitude",
+          "label": "Altitude",
+          "minutes": 19
+        },
+        {
+          "file": "ib-a1-2-2-heat.mp3",
+          "title": "A.1.2.2 Acute Response to Heat",
+          "label": "Heat",
+          "minutes": 15
+        },
+        {
+          "file": "ib-a1-2-2-cold.mp3",
+          "title": "A.1.2.2 Acute Responses to Cold",
+          "label": "Cold",
+          "minutes": 18
+        }
+      ]
+    },
     "btec-u01": {
       "file": "btec-u01.mp3",
       "title": "Why Being Fit Doesn't Mean Healthy",
