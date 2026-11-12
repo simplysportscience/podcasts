@@ -72,6 +72,66 @@
         }
       ]
     },
+    "cam-1": {
+      "file": "cam-1.mp3",
+      "title": "Topic 1: Joints, Movements and Muscles",
+      "minutes": 21
+    },
+    "cam-2": {
+      "file": "cam-2.mp3",
+      "title": "Topic 2: Biomechanics",
+      "minutes": 19
+    },
+    "cam-3": {
+      "file": "cam-3.mp3",
+      "title": "Topic 3: The Cardiovascular System",
+      "minutes": 19
+    },
+    "cam-4": {
+      "file": "cam-4.mp3",
+      "title": "Topic 4: The Respiratory System",
+      "minutes": 24
+    },
+    "cam-5": {
+      "file": "cam-5.mp3",
+      "title": "Topic 5: Skill and Ability",
+      "minutes": 21
+    },
+    "cam-6": {
+      "file": "cam-6.mp3",
+      "title": "Topic 6: Theories of Learning",
+      "minutes": 24
+    },
+    "cam-7": {
+      "file": "cam-7.mp3",
+      "title": "Topic 7: Information Processing",
+      "minutes": 23
+    },
+    "cam-8": {
+      "file": "cam-8.mp3",
+      "title": "Topic 8: Practice and Learning",
+      "minutes": 23
+    },
+    "cam-9": {
+      "file": "cam-9.mp3",
+      "title": "Topic 9: Sociocultural Issues",
+      "minutes": 24
+    },
+    "cam-10": {
+      "file": "cam-10.mp3",
+      "title": "Topic 10: Ethics and Deviance",
+      "minutes": 17
+    },
+    "cam-11": {
+      "file": "cam-11.mp3",
+      "title": "Topic 11: Commercialisation and the Media",
+      "minutes": 22
+    },
+    "cam-12": {
+      "file": "cam-12.mp3",
+      "title": "Topic 12: The Use of Technology",
+      "minutes": 24
+    },
     "btec-u01": {
       "file": "btec-u01.mp3",
       "title": "Why Being Fit Doesn't Mean Healthy",
