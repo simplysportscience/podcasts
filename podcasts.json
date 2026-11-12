@@ -4,6 +4,36 @@
       "file": "btec-u01.mp3",
       "title": "Why Being Fit Doesn't Mean Healthy",
       "minutes": 20
+    },
+    "btec-old-01": {
+      "file": "btec-u01.mp3",
+      "title": "Why Being Fit Doesn't Mean Healthy",
+      "minutes": 20
+    },
+    "btec-u02": {
+      "file": "btec-u02.mp3",
+      "title": "Fitness Training Survival Guide",
+      "minutes": 19
+    },
+    "btec-old-03": {
+      "file": "btec-old-03.mp3",
+      "title": "Apply Sports Research to Your Career",
+      "minutes": 22
+    },
+    "btec-old-04": {
+      "file": "btec-old-04.mp3",
+      "title": "Sports Ethics and Leadership Under Pressure",
+      "minutes": 22
+    },
+    "btec-old-05": {
+      "file": "btec-old-05.mp3",
+      "title": "From Sports Coach to Business Owner",
+      "minutes": 22
+    },
+    "btec-old-08": {
+      "file": "btec-old-08.mp3",
+      "title": "How Body Systems Adapt to Exercise",
+      "minutes": 23
     }
   }
 }
