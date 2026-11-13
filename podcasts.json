@@ -242,6 +242,16 @@
         }
       ]
     },
+    "ib-b1-3-2": {
+      "file": "ib-b1-3-2.mp3",
+      "title": "B.1.3.2 Sliding Filament Theory",
+      "minutes": 16
+    },
+    "ib-b1-4-1": {
+      "file": "ib-b1-4-1.mp3",
+      "title": "B.1.4.1 Levers",
+      "minutes": 22
+    },
     "cam-1": {
       "file": "cam-1.mp3",
       "title": "Topic 1: Joints, Movements and Muscles",
