@@ -289,6 +289,43 @@
       "title": "B.2.1.4 Work",
       "minutes": 15
     },
+    "ib-b2-2-1": {
+      "tracks": [
+        {
+          "file": "ib-b2-2-1-projectile-motion.mp3",
+          "title": "B.2.2.1 Projectile Motion",
+          "label": "Projectile",
+          "minutes": 11
+        },
+        {
+          "file": "ib-b2-2-1-air-resistance.mp3",
+          "title": "B.2.2.1 Air Resistance in Sports",
+          "label": "Resistance",
+          "minutes": 12
+        }
+      ]
+    },
+    "ib-b2-2-2": {
+      "tracks": [
+        {
+          "file": "ib-b2-2-2-fluid-mechanics.mp3",
+          "title": "B.2.2.2 Fluid Mechanics",
+          "label": "Fluids",
+          "minutes": 15
+        },
+        {
+          "file": "ib-b2-2-2-environmental-forces.mp3",
+          "title": "B.2.2.2 Environmental Forces on Sports Performance",
+          "label": "Forces",
+          "minutes": 12
+        }
+      ]
+    },
+    "ib-b2-2-3": {
+      "file": "ib-b2-2-3.mp3",
+      "title": "B.2.2.3 Buoyancy, Lift and Drag",
+      "minutes": 12
+    },
     "cam-1": {
       "file": "cam-1.mp3",
       "title": "Topic 1: Joints, Movements and Muscles",
