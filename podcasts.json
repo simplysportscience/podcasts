@@ -111,6 +111,11 @@
         }
       ]
     },
+    "ib-a2-2-2": {
+      "file": "ib-a2-2-2.mp3",
+      "title": "A.2.2.2 Micronutrients",
+      "minutes": 20
+    },
     "ib-a2-2-3": {
       "file": "ib-a2-2-3.mp3",
       "title": "A.2.2.3 The Gut Microbiome",
@@ -386,6 +391,11 @@
       "file": "ib-c1-1-3.mp3",
       "title": "C.1.1.3 Personality Change",
       "minutes": 14
+    },
+    "ib-c1-2-1": {
+      "file": "ib-c1-2-1.mp3",
+      "title": "C.1.2.1 Mental Toughness",
+      "minutes": 11
     },
     "ib-c1-2-2": {
       "file": "ib-c1-2-2.mp3",
